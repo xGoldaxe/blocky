@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    background: rgb(209, 209, 209);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    border: 3px solid rgb(48, 16, 16);
+    background: white;
+    position: relative;
+}
+
+img {
+    display: none;
+}
